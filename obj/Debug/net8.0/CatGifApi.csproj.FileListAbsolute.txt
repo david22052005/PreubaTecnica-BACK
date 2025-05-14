@@ -1,0 +1,7 @@
+C:\Users\david\CatGifApi\obj\Debug\net8.0\CatGifApi.csproj.AssemblyReference.cache
+C:\Users\david\CatGifApi\obj\Debug\net8.0\CatGifApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\CatGifApi\obj\Debug\net8.0\CatGifApi.AssemblyInfoInputs.cache
+C:\Users\david\CatGifApi\obj\Debug\net8.0\CatGifApi.AssemblyInfo.cs
+C:\Users\david\CatGifApi\obj\Debug\net8.0\CatGifApi.csproj.CoreCompileInputs.cache
+C:\Users\david\CatGifApi\obj\Debug\net8.0\CatGifApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\david\CatGifApi\obj\Debug\net8.0\CatGifApi.MvcApplicationPartsAssemblyInfo.cache
